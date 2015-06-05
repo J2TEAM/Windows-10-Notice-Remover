@@ -3,8 +3,8 @@
 #AutoIt3Wrapper_Compression=4
 #AutoIt3Wrapper_Icon=icon.ico
 #AutoIt3Wrapper_Res_LegalCopyright=(C) 2015 Juno_okyo. All rights reserved.
-#AutoIt3Wrapper_Res_Comment=Coded by Juno_okyo
-#AutoIt3Wrapper_Res_Description=Coded by Juno_okyo
+#AutoIt3Wrapper_Res_Comment=Developed by Juno_okyo
+#AutoIt3Wrapper_Res_Description=Disable GWX.exe auto-start to remove notice about Windows 10 on Tray Menu in Windows 7/8.
 #AutoIt3Wrapper_Res_Fileversion=1.0.0.0
 #AutoIt3Wrapper_Res_FileVersion_AutoIncrement=Y
 #AutoIt3Wrapper_Res_ProductVersion=1.0.0.0;=>Edit
@@ -84,7 +84,7 @@ EndFunc   ;==>Button2Click
 
 Func Button3Click()
 	Local $br = @CRLF & @CRLF
-	Local $about = 'Remove Windows 10 Notice on Tray Menu' & $br & 'Version: ' & $VERSION & $br & 'Copyright: ' & @YEAR & ' J2TeaM' & $br & 'Home Page: http://junookyo.blogspot.com/'
+	Local $about = 'Windows 10 Notice Remover' & $br & 'Version: ' & $VERSION & $br & 'Copyright: ' & @YEAR & ' J2TeaM' & $br & 'Home Page: http://junookyo.blogspot.com/'
 	MsgBox(64 + 262144, 'About', $about, 0, $MainForm)
 EndFunc   ;==>Button3Click
 
