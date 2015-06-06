@@ -8,7 +8,7 @@ Disable GWX.exe auto-start to remove notice about Windows 10 on Tray Menu in Win
 
 ## Download
 
-You can use a [prebuild version](https://github.com/J2TeaM/Windows-10-Notice-Remover/releases) or [download the source code](https://github.com/J2TeaM/Windows-10-Notice-Remover/archive/master.zip) and build it yourself.
+You can use a [**prebuild version**](https://github.com/J2TeaM/Windows-10-Notice-Remover/releases) or [download the source code](https://github.com/J2TeaM/Windows-10-Notice-Remover/archive/master.zip) and build it yourself.
 
 ## Contributing
 
@@ -16,18 +16,18 @@ You can use a [prebuild version](https://github.com/J2TeaM/Windows-10-Notice-Rem
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request :+1:
 
 ## Credits
 
-- Juno_okyo <junookyo@gmail.com>
+- **Juno_okyo** <junookyo@gmail.com>
 - IconFinder.com (for icon using in my software)
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Juno_okyo
+Copyright (c) 2015 **Juno_okyo**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
