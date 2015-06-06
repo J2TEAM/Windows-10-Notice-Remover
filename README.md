@@ -4,7 +4,7 @@ Disable GWX.exe auto-start to remove notice about Windows 10 on Tray Menu in Win
 
 ## Screenshot
 
-![Windows-10-Notice-Remover](https://cloud.githubusercontent.com/assets/5250117/8016925/a7033866-0c14-11e5-9b71-c3fe9226c71d.png)
+![Windows-10-Notice-Remover](http://i.imgur.com/MCNpzAk.png)
 
 ## Download
 
